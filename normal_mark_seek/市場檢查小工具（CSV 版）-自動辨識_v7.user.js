@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         市場檢查小工具（CSV 版）-自動辨識-v7
+// @name         市場檢查小工具（CSV 版）-自動辨識-v7.1
 // @namespace    http://tampermonkey.net/
-// @version      7
+// @version      7.1
 // @description  於介面貼上資料（Tab 分隔）自動解析建立待輸入清單，自動填寫市場檢查資料、支援自動下一筆、自動分類、自動送出、資料庫紀錄功能（已改為貼上模式，不再使用 CSV 檔案匯入／編碼偵測）。
 // @match        https://tp-masap-01.net.bsmi.gov.tw/Mas3103.action*
 // @match        https://tp-masap-02.net.bsmi.gov.tw/Mas3103.action*
